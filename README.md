@@ -1,2 +1,2 @@
 # rmf_analysis
-Real-based information from BigQuerry
+Real-based information from Amazon sample
