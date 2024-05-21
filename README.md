@@ -7,4 +7,14 @@ The current page contains a Jupyter notebook titled **product_amazon_customers_s
 - **Insights Extraction**: It suggests analyzing the recency, frequency, and monetary value of product reviews to gauge product popularity and customer engagement.
 - **Visualization**: There are histogram plots for the distribution of answered questions and other exploratory data analysis steps to understand the dataset better.
 
-This summary provides an overview of the notebook's purpose and the types of analyses being conducted on the Amazon e-commerce data. If you need further details or assistance with specific parts of the notebook, feel free to ask!
+This summary provides an overview of the notebook's purpose and the types of analyses being conducted on the Amazon e-commerce data. As for finding new interesting Exploratory Data Analysis (EDA) insights in the Amazon marketplace DataFrame that are valuable for sellers, here are a few suggestions:
+
+1. **Product Category Popularity**: Analyze the `amazon_category_and_sub_category` column to find out which categories and sub-categories are most popular.
+
+2. **Manufacturer Popularity**: Analyze the `manufacturer` column to find out which manufacturers' products are most popular.
+
+3. **Price vs. Reviews**: Analyze the relationship between `price_£` and `number_of_reviews` to see if there's a correlation between price and the number of reviews a product receives.
+
+4. **Price vs. Rating**: Analyze the relationship between `price_£` and `average_review_rating` to see if there's a correlation between price and product rating.
+
+5. **Product Description Word Analysis**: Analyze the words used in `product_description` to see if certain words are associated with higher ratings or more reviews.
